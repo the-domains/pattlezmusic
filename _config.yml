@@ -1,4 +1,3 @@
-layout_spectrum: 0.6255613989196718
 typography_spectrum: 0.8493791590444744
 color:
   brandStrength: 0.22726655914448202
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.6255613989196718
 name: PattlezMusic
+title: The Misadventures of Pattlez
