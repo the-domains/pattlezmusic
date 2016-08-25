@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PattlezMusic]]></title>
+        <description><![CDATA[PattlezMusic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Aug 2016 09:39:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Origin story. Lemme know if you want to read the full version!]]></title>
+            <description><![CDATA[<article><h1>Origin story. Lemme know if you want to read the full version!</h1><p>A little bit of my origin story. Planning on posting it here shortly!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ded6102b3dd2b2995d178a3497038971/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F14063378_298621067159422_1007566994_n.jpg%3Fig_cache_key%3DMTMyMTYwMzc4MTU5OTQ2Mjc3Mg%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BJXR6MgDIV0/?taken-by=pattlezofficial</link>
+            <guid isPermaLink="false">8fa1f618-0167-465b-815e-77e82cfef528</guid>
+            <pubDate>Thu, 25 Aug 2016 09:39:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
