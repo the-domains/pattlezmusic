@@ -1,0 +1,14 @@
+layout_spectrum: 0.6255613989196718
+typography_spectrum: 0.8493791590444744
+color:
+  brandStrength: 0.22726655914448202
+  lightness: 0.8108868468552828
+  saturation: 0.27522310172207654
+  rhythmicContrast: 0.48978723282925785
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: PattlezMusic
