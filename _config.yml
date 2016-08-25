@@ -6,9 +6,9 @@ color:
   saturation: 0.27522310172207654
   rhythmicContrast: 0.48978723282925785
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: PattlezMusic
