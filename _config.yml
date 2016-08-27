@@ -19,5 +19,8 @@ navigation:
   - name: SoundCloud
     url: 'https://soundcloud.com/pattlez'
     type: external
+  - name: Twitter
+    url: 'http://www.twitter.com/PattlezOfficial'
+    type: external
 title: The Misadventures of Pattlez
 description: '"Who said zeroes, can''t become heroes?"'
