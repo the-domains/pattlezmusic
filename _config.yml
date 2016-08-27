@@ -22,5 +22,8 @@ navigation:
   - name: Twitter
     url: 'http://www.twitter.com/PattlezOfficial'
     type: external
+  - name: Instagram
+    url: 'http://www.instagram.com/PattlezOfficial'
+    type: external
 title: The Misadventures of Pattlez
 description: '"Who said zeroes, can''t become heroes?"'
