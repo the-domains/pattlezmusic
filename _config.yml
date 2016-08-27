@@ -1,4 +1,5 @@
-typography_spectrum: 0.8493791590444744
+layout_spectrum: 0.9481845512054861
+typography_spectrum: 0.9547125606331974
 color:
   brandStrength: 0.22726655914448202
   lightness: 0.8108868468552828
@@ -10,7 +11,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-layout_spectrum: 0.6255613989196718
 name: PattlezMusic
 title: The Misadventures of Pattlez
 description: '"Who said zeroes, can''t become heroes?"'
