@@ -16,5 +16,8 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/PattlezMusic'
     type: external
+  - name: SoundCloud
+    url: 'https://soundcloud.com/pattlez'
+    type: external
 title: The Misadventures of Pattlez
 description: '"Who said zeroes, can''t become heroes?"'
